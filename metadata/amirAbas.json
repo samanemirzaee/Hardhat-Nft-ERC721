@@ -1,0 +1,17 @@
+  {
+    "name": "AmirAbas",
+    "description": "my name is amirabas tavakoli",
+    "image": "https://ipfs.io/ipfs/QmV9aVQqjqapugvtbtJNZHTyLGnaieygjFht2trybHqbmm",
+    "attributes": [
+        {
+            "trait_type": "samane",
+            "value": 90,
+            "max_value": 100
+        },
+        {
+            "trait_type": "majid",
+            "value": 50,
+            "max_value": 100
+        }
+    ]
+}
